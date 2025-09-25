@@ -8,7 +8,7 @@
 
 * Wear nitrile gloves and safety glasses; some jars may have formalin residue or strong ethanol. The TH 214 lab is well ventilated.
 * Clear a benchtop and lay down absorbent pads or paper towels.
-* Gather supplies: permanent lab markers (ethanol-insoluble), blue painter’s tape, pre-printed box labels, phone/camera, and the **[lot audit template](lot_audit_template.csv)**.
+* Gather supplies: permanent lab markers (ethanol-insoluble), lab tape, pre-printed box labels, phone/camera, and the **[lot audit template](lot_audit_template.xlsx)**.
 * Keep lids hand-tight—do **not** re-seal with excessive force.
 
 ### 1) Stage one box at a time
@@ -55,7 +55,7 @@ For every jar moved into a family box, enter:
 
 * Shelve by **family (alphabetical)**, then by **box sequence**.
 * Record `location_to` on the template (e.g., **Aisle 2, Bay B, Shelf 3**).
-* Return the completed **Lot Audit Template CSV** for that family to the master tracking folder.
+* Return the completed **Lot Audit Template ** for that family to the master tracking folder.
 
 ---
 
@@ -78,7 +78,7 @@ For every jar moved into a family box, enter:
 
 ### 2) One box at a time: inventory everything
 
-Using the **Freezer Inventory Template**, record for *each tube/vial*:
+Using the **[Freezer Inventory Template](freezer_inventory_template.xlsx)**, record for *each tube/vial*:
 
 * `freezer_id`, `rack`, `box_id`, `position_in_box` (grid).
 * `sample_type` (**tissue** or **dna**).
@@ -149,6 +149,6 @@ If you want, I can also print a **one-page quick-reference** of the most common 
 ## Helper files
 
 * [Download the species code decoder](species_code_decoder.csv) — maps `species_code` → scientific name (+ family when available)
-* [Download the lot audit template](lot_audit_template.csv)
-* [Download the freezer inventory template](freezer_inventory_template.csv)
+* [Download the lot audit template](lot_audit_template.xlsx)
+* [Download the freezer inventory template](freezer_inventory_template.xlsx)
 

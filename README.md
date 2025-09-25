@@ -16,6 +16,6 @@ Click on this link for the protocol to process the boxes of jars and freezers.
 
 [species_code_decoder.csv](species_code_decoder.csv)
 
-[lot_audit_template.csv](lot_audit_template.csv)
+[lot_audit_template.xlsx](lot_audit_template.xlsx)
 
-[freezer_inventory_template.csv](freezer_inventory_template.csv)
+[freezer_inventory_template.xlsx](freezer_inventory_template.xlsx)
